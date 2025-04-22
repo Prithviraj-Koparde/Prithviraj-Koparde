@@ -21,7 +21,9 @@ Frameworks and Tools
 Spring Boot Angular Nodejs Git Postman MySQL PostGreSQL
 
 📈 GitHub Stats  
-![GitHub stats](https://streak-stats.demolab.com?user=Prithviraj-Koparde&theme=default&hide_border=true,https://github-readme-stats.vercel.app/api/top-langs/?username=Prithviraj-Koparde&theme=default&show_icons=true&hide_border=true&layout=compact )
+![GitHub stats](https://streak-stats.demolab.com?user=Prithviraj-Koparde&theme=default&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithviraj-Koparde&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prithviraj-Koparde&show_icons=true&theme=radical)
 
 
 💬 Let’s Connect and Build Something Awesome
